@@ -1,0 +1,17 @@
+{
+  "name": "sa-takehome-project-node",
+  "version": "1.0.0",
+  "description": "SA Takehome Project",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Matt Mitchell, checkout feature added by Syed Muzammil",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.3",
+    "express-handlebars": "^5.2.1",
+    "path": "^0.12.7",
+    "stripe": "^8.137.0",
+    "dotenv": "^9.0.2"
+  }
+}
